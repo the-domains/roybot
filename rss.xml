@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Roybot]]></title>
         <description><![CDATA[Roybot]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/roybot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 17:52:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 17:53:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/roybot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/roybot/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">a8a76cdc-2483-4a90-ba04-c766d19faff0</guid>
-            <pubDate>Mon, 28 Dec 2015 17:52:27 GMT</pubDate>
+            <pubDate>Mon, 28 Dec 2015 17:52:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
